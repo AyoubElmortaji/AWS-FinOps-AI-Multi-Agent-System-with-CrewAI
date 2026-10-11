@@ -1,5 +1,5 @@
 # AWS FinOps AI Multi-Agent System with CrewAI
-
+ 
 > An autonomous chain of **6 specialized AI agents** that analyzes an AWS account's spending, hunts down wasted resources, detects cost anomalies, audits tagging compliance, and delivers an **executive PDF report straight to Telegram** — end to end, with no human in the loop.
 
 ![CrewAI](https://img.shields.io/badge/CrewAI-multi--agent-FF5A50)
